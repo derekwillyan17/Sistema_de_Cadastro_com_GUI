@@ -1,0 +1,47 @@
+.principal{
+	
+	-fx-background-color: linear-gradient(#000000, #242424); 
+	
+	
+}
+
+.textfield{
+	
+	-fx-background-color:rgba(0,0,0,0.0);
+	-fx-background-radius:20;
+	-fx-border-color: white;
+	-fx-border-radius: 20;
+	-fx-text-fill: white;
+	
+	
+}
+
+
+.cadastrarse{
+	
+	-fx-background-radius: 20;
+	-fx-border-color: white;
+	-fx-background-color: rgba(0,0,0,0.0);
+	-fx-border-radius: 20;
+	-fx-text-fill:white;
+
+
+}
+.cadastrarse:hover{
+	
+	
+		-fx-background-color: white;
+		-fx-text-fill: black;
+		-fx-border-radius: 20; 
+	
+}
+.cadastrarse:active{
+	
+	
+	-fx-background-radius: 20;
+	-fx-border-color: white;
+	-fx-background-color: rgba(0,0,0,0.0);
+	-fx-border-radius: 20; 
+	-fx-text-fill:white;
+	
+}
